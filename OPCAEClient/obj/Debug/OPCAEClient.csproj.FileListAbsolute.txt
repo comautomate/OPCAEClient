@@ -1,0 +1,10 @@
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\bin\Debug\OPCAEClient.exe.config
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\bin\Debug\OPCAEClient.exe
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\bin\Debug\OPCAEClient.pdb
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\bin\Debug\OpcNetApi.Com.dll
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\bin\Debug\OpcNetApi.dll
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\obj\Debug\OPCAEClient.csproj.AssemblyReference.cache
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\obj\Debug\OPCAEClient.csproj.CoreCompileInputs.cache
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\obj\Debug\OPCAEClient.csproj.CopyComplete
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\obj\Debug\OPCAEClient.exe
+D:\FILES\Company\SelfMadeVideos\1.C# AEClient\OPCAEClient\OPCAEClient\obj\Debug\OPCAEClient.pdb
